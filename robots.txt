@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fast-eagle.onrender.com/sitemap.xml
